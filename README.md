@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"><br/>
-  <a href="https://joaopolloni.github.io//">
+  <a href="https://joaopolloni.github.io/BoraCodar06Tinket_Avi-o/">
     <img src="./.github/preview.png" />
   </a>
 </p>
@@ -24,7 +24,7 @@ Figma do projeto:
 
 Projeto hospedado no Github Pages:
 
-[joaopolloni.github.io//](https://joaopolloni.github.io//)
+[https://joaopolloni.github.io/BoraCodar06Tinket_Avi-o/](https://joaopolloni.github.io/BoraCodar06Tinket_Avi-o/)
 
 ## 🦾 Tecnologias
 
